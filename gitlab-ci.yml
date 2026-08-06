@@ -1,0 +1,6 @@
+include:
+  - project: 'se/abschlussarbeiten/metrik-feedback-system'
+    file: '/templates/codequalitaet.yml'
+
+variables:
+  ANALYSE_PFAD: "src"
